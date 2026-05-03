@@ -3,12 +3,12 @@
 #### 📍 Barcelona | 🚀 Desarrollador Full-stack | 🏗️ Fundador de [CodeAdventure](https://www.codeadventure.app/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Desarrollador apasionado por crear herramientas que simplifican el día a día. Mi experiencia abarca desde plataformas educativas modernas hasta la automatización industrial y la gestión inteligente de datos.
+Desarrollador apasionado por crear herramientas que simplifican el día a día. Mi experiencia abarca desde plataformas educativas modernas con **Node.js** hasta la automatización industrial y la gestión inteligente de datos.
 
 ---
 
@@ -18,7 +18,7 @@ Desarrollador apasionado por crear herramientas que simplifican el día a día. 
 ### 🛠️ Proyectos Destacados
 - **🛡️ Generador-SEPA** - Automatización financiera: genera archivos SEPA desde Excel para optimizar cobros. (Python)
 - **📊 SQL Graphics** - Herramienta para visualización de datos avanzada en bases de datos SQL.
-- **📱 Android Utils** - Implementación de componentes visuales (Progress Bars y Gráficos) en Kotlin y Java.
+- **📱 Android & Web Utils** - Implementación de componentes visuales y lógica de backend eficiente.
 - **🏗️ Tecnología Industrial** - Especialista en control y automatización (proyectos Kuka y Visual Basic .NET).
 
 ---
