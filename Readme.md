@@ -21,19 +21,17 @@ Desarrollador apasionado por crear herramientas que simplifican el día a día. 
 - **📱 Android Utils** - Implementación de componentes visuales (Progress Bars y Gráficos) en Kotlin y Java.
 - **🏗️ Tecnología Industrial** - Especialista en control y automatización (proyectos Kuka y Visual Basic .NET).
 
-### 📈 Actividad y Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviFRx&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=es" alt="Estadísticas de Javi" />
-</p>
+---
 
+### 📈 Mi Actividad
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviFRx&layout=compact&theme=dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaviFRx&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Conectemos
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandez-ramos-64a0a656/)
 - **Web:** [codeadventure.app](https://www.codeadventure.app/)
-- **LinkedIn:** [Añade aquí tu perfil]
 
 > "Transformando problemas complejos en soluciones automatizadas."
