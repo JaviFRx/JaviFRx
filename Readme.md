@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white)
+![Kuka](https://img.shields.io/badge/KUKA-Robotics-orange?style=for-the-badge)
 
 Desarrollador apasionado por crear herramientas que simplifican el día a día. Mi experiencia abarca desde plataformas educativas modernas con **Node.js** hasta la automatización industrial y la gestión inteligente de datos.
 
