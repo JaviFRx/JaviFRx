@@ -10,8 +10,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Kuka](https://img.shields.io/badge/KUKA-Robotics-orange?style=for-the-badge)
 
-Desarrollador apasionado por crear herramientas que simplifican el día a día. Mi experiencia abarca desde plataformas educativas modernas con **Node.js** hasta la automatización industrial y la gestión inteligente de datos.
-
+Desarrollador apasionado por crear herramientas que simplifican el día a día. Mi experiencia es un puente entre el mundo digital y el físico: desde plataformas educativas modernas con Node.js hasta la programación de robótica industrial (Kuka) y el diseño mecánico con SolidWorks.
 ---
 
 ### 🚀 Proyecto Principal
