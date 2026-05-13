@@ -16,8 +16,8 @@ Desarrollador apasionado por crear herramientas que simplifican el día a día. 
 ### 🚀 Proyectos Destacados
 
 - **[CodeAdventure](https://www.codeadventure.app/)** - Mi enfoque actual: revolucionar el aprendizaje y la interacción con el código mediante una experiencia inmersiva.
-- **[NexusCad](https://github.com/JaviFRx/NexusCad)** - Software especializado en la **planificación y diseño de redes FTTH (Fibra Óptica)**. Una herramienta técnica que combina gestión cartográfica y diseño de infraestructura de telecomunicaciones.
-
+- **[NexusCad](https://github.com/JaviFRx/NexusCad)** - Motor de **automatización de diseño paramétrico** y configuración técnica. Permite la generación dinámica de modelos 3D y documentación técnica mediante reglas lógicas personalizadas, optimizando los flujos de ingeniería.
+  
 ### 🦾 Ingeniería y Automatización (Mundo Físico)
 - **Programación de Robótica Kuka** - Desarrollo de lógica de control para brazos robóticos en entornos industriales. Implementación de **ciclos 100% autónomos**, optimización de trayectorias y seguridad operativa.
 - **Diseño Mecánico con SolidWorks** - Modelado, ensamblaje y simulación de componentes industriales destinados a líneas de producción automatizadas.
