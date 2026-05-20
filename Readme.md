@@ -1,6 +1,6 @@
 # ¡Hola! Soy Javier Fernandez 👋
 
-#### 📍 Barcelona | 🚀 Desarrollador Full-stack | 🦾 Especialista en Automatización Industrial | 🏗️ Fundador de [CodeAdventure](https://www.codeadventure.app/)
+#### 📍 Barcelona | 🚀 Desarrollador Full-stack | 🦾 Especialista en Automatización Industrial | 🏗️ Fundador de [CodeAdventure](https://www.codeadventure.app/) y [GFG Kids](https://www.gfgkids.es/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -16,6 +16,7 @@ Desarrollador apasionado por crear herramientas que simplifican el día a día. 
 ### 🚀 Proyectos Destacados
 
 - **[CodeAdventure](https://www.codeadventure.app/)** - Mi enfoque actual: revolucionar el aprendizaje y la interacción con el código mediante una experiencia inmersiva.
+- **[GFG Kids](https://www.gfgkids.es/)** - Plataforma enfocada en el desarrollo de habilidades y aprendizaje tecnológico para las nuevas generaciones.
 - **[NexusCad](https://github.com/JaviFRx/NexusCad)** - Motor de **automatización de diseño paramétrico** y configuración técnica. Permite la generación dinámica de modelos 3D y documentación técnica mediante reglas lógicas personalizadas, optimizando los flujos de ingeniería.
   
 ### 🦾 Ingeniería y Automatización (Mundo Físico)
@@ -39,6 +40,6 @@ Desarrollador apasionado por crear herramientas que simplifican el día a día. 
 
 ### 📫 Conectemos
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandez-ramos-64a0a656/)
-- **Web:** [codeadventure.app](https://www.codeadventure.app/)
+- **Webs:** [codeadventure.app](https://www.codeadventure.app/) | [gfgkids.es](https://www.gfgkids.es/)
 
 > "Transformando problemas complejos en soluciones automatizadas, ya sea en la nube, en la red de fibra o en la línea de producción."
