@@ -1,6 +1,7 @@
 # ¡Hola! Soy Javier Fernandez 👋
 
-#### 📍 Barcelona | 🚀 Desarrollador Full-stack | 🦾 Especialista en Automatización Industrial | 🏗️ Fundador de [CodeAdventure](https://www.codeadventure.app/) y [GFG Kids](https://www.gfgkids.es/)
+
+#### 📍 Barcelona | 🚀 Desarrollador Full-Stack | 🦾 Especialista en Automatización Industrial | 🏗️ Fundador de [CodeAdventure](https://www.codeadventure.app/), [GFG Kids](https://www.gfgkids.es/) y **ModelSolid**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
